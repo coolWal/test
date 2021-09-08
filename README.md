@@ -8,3 +8,7 @@ git branch
 git checkout main
 git commit
 git branch name
+haha
+
+
+>>>>>>> 3259ae3 (b)
